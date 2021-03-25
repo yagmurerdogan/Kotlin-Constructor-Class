@@ -14,7 +14,7 @@ class Box constructor( // we can delete "constructor" word, nothing will change
         println("Init Block Called")
     }
 
-    // we can create secondary constructor, but iyt is not recommended
+    // we can create secondary constructor, but it is not recommended
     // these 0 are default values but we can describe defaults in primary constructor as well
     // don't use var or val in secondary constructor
     // "this" for call primary constructor
